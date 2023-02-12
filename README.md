@@ -1,5 +1,4 @@
-## Oi!
-Meu nome é Priscila, e eu estou dando meus primeiros passos em programação!
+## Oi, Meu nome é Priscila, e eu estou dando meus primeiros passos em programação!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
