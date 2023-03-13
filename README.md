@@ -1,4 +1,4 @@
-## Oi! Meu nome é Priscila, e eu sou uma Desenvolvedora Backend em formação!
+## Desenvolvedora Backend 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
