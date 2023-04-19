@@ -1,7 +1,6 @@
 ## Desenvolvedora Backend cursando o Bacharelado em Ciência e Tecnologia pela Universidade Federal do ABC.
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prihora&show_icons=true&locale=en" alt="prihora" /
+https://github-readme-stats.vercel.app/api?prihora=anuraghazra&show_icons=true&theme=radical
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
