@@ -1,4 +1,4 @@
-## Desenvolvedora Backend cursando o Bacharelado em Ciência e Tecnologia pela Universidade Federal do ABC.
+## Desenvolvedora Backend iniciante cursando o Bacharelado em Ciência e Tecnologia pela Universidade Federal do ABC.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
