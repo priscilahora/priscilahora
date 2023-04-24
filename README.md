@@ -1,4 +1,4 @@
-## Desenvolvedora Backend cursando o Bacharelado em Ciência e Tecnologia pela Universidade Federal do ABC.
+## Estudante do Bacharelado em Ciência e Tecnologia e Desenvolvedora Backend em Formação.
 
 
 <div style="display: inline_block"><br>
