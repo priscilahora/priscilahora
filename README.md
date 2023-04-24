@@ -1,4 +1,4 @@
-## Estudante do Bacharelado em Ciência e Tecnologia e Desenvolvedora Backend em Formação.
+## Estudante de Ciência e Tecnologia e Desenvolvedora Backend em Formação.
 
 
 <div style="display: inline_block"><br>
