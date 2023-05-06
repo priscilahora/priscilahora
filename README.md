@@ -2,7 +2,7 @@
 
 ✨ sobre mim <br />
 
-💻 desenvolvedora Backend em formação <br />
+💻 desenvolvedora backend em formação <br />
 📚 estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC <br />
 🧪 apaixonada por Ciências da Natureza 
 <br />
