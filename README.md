@@ -1,10 +1,10 @@
-## Olá! Tudo Bem? Seja bem-vindo(a) ao meu GitHub! 
+## seja bem-vindo(a) ao meu GitHub!
 
-✨ Sobre Mim <br />
+✨ sobre mim <br />
 
-✨ Desenvolvedora Backend em formação <br />
-✨ Estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC <br />
-✨ Apaixonada por Ciências da Natureza 
+💻 desenvolvedora Backend em formação <br />
+📚 estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC <br />
+🧪 apaixonada por Ciências da Natureza 
 <br />
 
 
@@ -22,7 +22,7 @@
 
 ##
 <div align="center" style="display: inline_block">
-  <h4> Entre em contato comigo! ✨ </h4>
+  <h4> entre em contato comigo! ✨ </h4>
  <a href="https://www.linkedin.com/in/priscila-pereira-hora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:priscilaphora@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = " https://twitter.com/pridev05?t=07_NxxsjzJSzMNYp54Itmg&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
