@@ -3,7 +3,6 @@
 ✨ sobre mim <br />
 
 🤍 desenvolvedora backend em formação <br />
-🧮 amante da Matemática e da Química <br />
 📚 estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC <br />
 
 
