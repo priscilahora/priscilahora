@@ -1,4 +1,6 @@
-## seja bem-vindo(a) ao meu GitHub!
+## 
+
+<h1 align="center"> seja bem-vindo(a) ao meu GitHub! </h1>
 
 ✨ sobre mim <br />
 
