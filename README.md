@@ -1,12 +1,12 @@
 ## 
 
-<h1 align="center"> seja bem-vindo(a) ao meu GitHub! </h1>
+<h1 align="center"> bem-vindo(a) ao meu GitHub!✨ </h1>
 
-✨ sobre mim <br />
+👩🏽‍🦱 sobre mim <br />
 
-🤍 desenvolvedora backend em formação <br />
+🤍 entusiasta do automobilismo <br />
+🖥 desenvolvedora backend em formação <br />
 📚 estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC <br />
-
 
 
 ## 
