@@ -4,7 +4,7 @@
 
 👩🏽‍🦱 sobre mim <br />
 
-🤍 entusiasta do automobilismo <br />
+
 🖥 desenvolvedora backend em formação <br />
 📚 estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC <br />
 
