@@ -1,4 +1,4 @@
-<h2 align="center"> Bem-vindo(a) ao meu GitHub!🤍</h2>
+<h2 align="center"> Bem-vindo(a) ao meu GitHub! 🤍</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="left" margin-left=10px>
   <a href="mailto:priscilaphora@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
