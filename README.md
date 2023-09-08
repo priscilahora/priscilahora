@@ -1,7 +1,7 @@
 <h2 align="center"> Bem-vindo(a) ao meu GitHub! 🤍 </h2>
 
 ###
-<div align="center"> Meu nome é Priscila, eu tenho 18 anos e moro em Santo André, no ABC Paulista. Atualmente estou cursando o Bacharelado em Ciência e Tecnologia pela Universidade Federal do ABC e pretendo me tornar uma Cientista de dados futuramente. 👩🏽‍💻</div> 
+<div align="center"> Meu nome é Priscila, eu tenho 18 anos e moro em Santo André, no ABC Paulista. Atualmente estou cursando o Bacharelado em Ciência e Tecnologia pela Universidade Federal do ABC e pretendo me tornar uma Cientista de Dados futuramente. 👩🏽‍💻</div> 
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priscilahora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="150" alt="stats graph"  />
