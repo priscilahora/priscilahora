@@ -1,7 +1,7 @@
-<h2 align="center"> aspirante a Cientista de Dados 🤎 </h2>
+<h2 align="center"> olá! 🤎 </h2>
 
 ###
-<div align="center"> olá! meu nome é Priscila e atualmente estou cursando o Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC! </div> 
+<div align="center"> meu nome é Priscila, tenho 19 anos e atualmente estou cursando o Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC! </div> 
 
 ###
   
