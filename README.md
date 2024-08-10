@@ -1,7 +1,7 @@
-<h2 align="center"> bem-vindo(a) ao meu GitHub! 🤎 </h2>
+<h2 align="center"> aspirante a Cientista de Dados 🤎 </h2>
 
 ###
-<div align="center"> meu nome é Priscila, atualmente estou cursando o Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC e sou aspirante a Cientista de Dados! 👩🏽‍💻</div> 
+<div align="center"> olá! meu nome é Priscila e atualmente estou cursando o Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC! </div> 
 
 ###
   
