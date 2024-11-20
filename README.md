@@ -1,7 +1,7 @@
 <h2 align="center"> olá! 🤎 </h2>
 
 ###
-<div align="center"> meu nome é Priscila, tenho 19 anos e atualmente estou cursando o Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC! </div> 
+<div align="center"> atualmente estou cursando Ciência e Tecnologia e Ciência da Computação na Universidade Federal do ABC e atuo como estagiária em Advanced Analytics de Compliance no Itaú Unibanco! </div> 
 
 ###
   
