@@ -1,7 +1,10 @@
-<h2 align="center"> olá! 🤎 </h2>
+<h2 align="center"> Olá! Tudo bem? </h2>
 
 ###
-<div align="center"> atualmente estou cursando Ciência e Tecnologia e Ciência da Computação na Universidade Federal do ABC e atuo como estagiária em Advanced Analytics de Compliance no Itaú Unibanco! </div> 
+<div align="left"> 🤎 Sou a Priscila, entusiasta de dados e tecnologia cursando Ciência e Tecnologia e Ciência da Computação na Universidade Federal do ABC. </div> <br>
+<div align="left"> 💡 Atuo como estagiária no Itaú Unibanco, contribuindo em projetos que envolvem principalmente Python e Inteligência Artificial Generativa. </div> <br>
+<div align="left"> 🎲 Acredito no poder dos dados para contar histórias, revelar padrões e mudar a forma como enfrentamos desafios e criamos oportunidades. </div> <br>
+<div align="left"> 🌱 Atualmente, estou desenvolvendo dois projetos. Um deles é sobre Fórmula 1, visando prever o desempenho dos pilotos em corridas utilizando dados históricos. O segundo é uma extensão de um projeto que desenvolvi na universidade, tratando-se da análise da rede de colaboração entre cientistas durante o desenvolvimento dos modelos atômicos, utilizando grafos e cálculos de centralidade de grau e betweenness. </div>
 
 ###
   
