@@ -2,7 +2,7 @@
 
 <div align="left"> 🤎 Sou a Priscila, aluna de Ciência e Tecnologia e Ciência da Computação na Universidade Federal do ABC. </div> 
 <div align="left"> 💡 Estagiária no Itaú Unibanco, atuo contribuindo em projetos que envolvem principalmente Python, Inteligência Artificial Generativa e desenvolvimento de modelos de Machine Learning. </div> 
-<div align="left"> 🎲 "Data! Data! Data! I can't make bricks without clay!" </div> 
+<div align="left"> 🎲 "Data! Data! Data! I can't make bricks without clay!" - Sherlock Holmes </div> 
 
 ###
 <div align="center">
