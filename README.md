@@ -1,8 +1,8 @@
 <h3 align="left"> Olá! Tudo bem? </h3>
 
 <div align="left"> 🤎 Sou a Priscila, aluna de Ciência e Tecnologia e Ciência da Computação na Universidade Federal do ABC. </div> 
-<div align="left"> 💡 Estagiária no Itaú Unibanco, contribuindo em projetos que envolvem principalmente Python e Inteligência Artificial Generativa. </div> 
-<div align="left"> 🎲 Acredito no poder dos dados para contar histórias, revelar padrões e mudar a forma como enfrentamos desafios e criamos oportunidades. </div> 
+<div align="left"> 💡 Estagiária no Itaú Unibanco, atuo contribuindo em projetos que envolvem principalmente Python, Inteligência Artificial Generativa e desenvolvimento de modelos de Machine Learning. </div> 
+<div align="left"> 🎲 "Data! Data! Data! I can't make bricks without clay!" </div> 
 
 ###
 <div align="center">
